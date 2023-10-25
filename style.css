@@ -1,0 +1,27 @@
+body{
+    background-color:rgb(4, 4, 33);
+    justify-content: center;
+    text-align: center;
+    height: 100vh;
+}
+.timerh1{
+    font-size: 50px;
+    color: wheat;
+}
+.stop{
+    border: 1px solid wheat;
+    background-color:wheat;
+    color: black;
+    font-weight:600;
+    padding:5px 25px;
+}
+.stop:hover{
+    background-color:whitesmoke;
+    border:1px solid whitesmoke;
+}
+.clock-div{
+    display:flex;
+    justify-content: center;
+    text-align: center;
+    justify-content: space-around;
+}
